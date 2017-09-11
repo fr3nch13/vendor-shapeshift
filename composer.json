@@ -1,0 +1,10 @@
+{
+	"name": "fr3nch13/vendor-shapeshift",
+	"type": "component",
+	"keywords": ["jquery", "shapeshift", "grid", "layout"],
+	"description": "From: http://mcpants.github.io/jquery.shapeshift/",
+	"homepage": "https://github.com/fr3nch13/vendor-shapeshift",
+    "require": {
+		"components/jquery": "*"
+	}
+}
